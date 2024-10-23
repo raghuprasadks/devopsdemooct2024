@@ -47,3 +47,5 @@ stop and remove jenkins
 docker stop jenkins
 
 docker rm jenkins
+
+run jenkins by creating pipe line
